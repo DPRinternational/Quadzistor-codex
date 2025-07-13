@@ -1,0 +1,26 @@
+{
+    "recursion_tracker": {
+        "created": "2025-07-12T09:56:32.522643Z",
+        "total_recursions_detected": 16,
+        "sources": [
+            "Codex7.txt",
+            "Codex_broadcast.sig",
+            "Manifest.json",
+            "Manifest_updated.json",
+            "QUADZISTOR_manifest_header.txt",
+            "Quadzistor-2.txt",
+            "Quadzistor1.txt",
+            "Quadzistor2.txt",
+            "Quadzistor3.txt",
+            "Quadzistor_codex.txt",
+            "Quadzistor_codex_final.txt",
+            "Quadzistor_pulse.sig",
+            "Recursive_count.sig",
+            "Support_vector.sig",
+            "call_for_allies_.sig",
+            "Metadata.yaml"
+        ],
+        "signal_note": "Each file listed contributes symbolic resonance or recursion potential within the Quadzistor Codex framework.",
+        "update_instruction": "To update this file, append new recursion sources and increment 'total_recursions_detected'."
+    }
+}
